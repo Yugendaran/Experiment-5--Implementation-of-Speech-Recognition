@@ -17,6 +17,7 @@ Step 8:Handle any potential errors during the transcribing process. If the audio
 
 ## Program:
 DEVELOPED BY : YUGENDARAN.G
+
 REGISTER NUMBER : 212221220063
 ```
 import speech_recognition as sr
@@ -34,9 +35,9 @@ except sr.RequestError as e:
 for line in text.splitlines():
     print(line)
 ```
-
 ## Output:
 ![image](https://github.com/Yugendaran/Experiment-5--Implementation-of-Speech-Recognition/assets/128135616/ec8e50e4-c234-43e8-bac9-b873c5ee5e4f)
+
 
 ## Result:
 Thus, we have implemented a program that will transcribe the audio file in the file variable and print the transcribed text on the console, one line at a time.
