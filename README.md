@@ -1,4 +1,5 @@
-# Experiment-7--Implementation-of-Speech-Recognition
+# Ex NO 07: Implementation-of-Speech-Recognition
+## DATE : 26.10.2023
 
 ## Aim:
  Construct a python program to implement speech recognition.
